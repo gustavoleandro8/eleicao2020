@@ -1,8 +1,8 @@
-# Estudo de Caso: Análise das Eleições de 2020 utilizando Python, SQL e Power BI
+# Estudo de Caso: Análise das Eleições de 2020 no estado de São paulo utilizando Python, SQL e Power BI
 Neste repositório, compartilho os detalhes do meu estudo de caso que abordou a análise das eleições de 2020. O objetivo principal foi explorar e compreender os dados eleitorais por meio de uma combinação eficaz de ferramentas, incluindo Python, SQL (SQLite) e Power BI.
 
 ## Contexto do Estudo
-O estudo de caso concentrou-se no Perfil do eleitor e o resultados das eleições realizadas em 2020. O objetivo era extrair insights significativos dos dados brutos das eleições e apresentá-los de maneira clara e acessível por meio de visualizações dinâmicas e consultas eficiêntes.
+O estudo de caso concentrou-se no Perfil do eleitor e os resultados das eleições realizadas em 2020 focado no estado de São paulo. O objetivo era extrair insights significativos dos dados brutos das eleições e apresentá-los de maneira clara e acessível por meio de visualizações dinâmicas e consultas eficiêntes.
 
 ## Ferramentas Utilizadas
 Durante o desenvolvimento deste estudo de caso, utilizei as seguintes ferramentas:
