@@ -1,2 +1,14 @@
-# eleicao2020
-Estudo de caso Renova BR
+# Estudo de Caso: Análise das Eleições de 2020 utilizando Python, SQL e Power BI
+Neste repositório, compartilho os detalhes do meu estudo de caso que abordou a análise das eleições de 2020. O objetivo principal foi explorar e compreender os dados eleitorais por meio de uma combinação eficaz de ferramentas, incluindo Python, SQL (SQLite) e Power BI.
+
+## Contexto do Estudo
+O estudo de caso concentrou-se no Perfil do eleitor e o resultados das eleições realizadas em 2020. O objetivo era extrair insights significativos dos dados brutos das eleições e apresentá-los de maneira clara e acessível por meio de visualizações dinâmicas e consultas eficiêntes.
+
+## Ferramentas Utilizadas
+Durante o desenvolvimento deste estudo de caso, utilizei as seguintes ferramentas:
+
+Python : A linguagem de programação Python foi empregada para a limpeza, manipulação e preparação dos dados brutos das eleições. A biblioteca Pandas desempenharam um papel essencial na análise exploratória e no processamento dos dados.
+
+SQL (SQLite): Criei um banco de dados SQLite para armazenar os dados eleitorais de forma estruturada. Utilizei consultas SQL para extrair informações específicas , facilitando a análise dos dados em diferentes perspectivas.
+
+Power BI: Para criar visualizações interativas e informativas dos insights extraídos dos dados, o Power BI foi a ferramenta escolhida. Elaborei um dashboard dinâmico que permite a exploração profunda dos resultados eleitorais em diferentes níveis de detalhes.
