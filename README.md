@@ -7,11 +7,10 @@ O estudo de caso concentrou-se no Perfil do eleitor e o resultados das eleiçõe
 ## Ferramentas Utilizadas
 Durante o desenvolvimento deste estudo de caso, utilizei as seguintes ferramentas:
 
-### Python  :
-A linguagem de programação Python foi empregada para a limpeza, manipulação e preparação dos dados brutos das eleições. A biblioteca Pandas desempenharam um papel essencial na análise exploratória e no processamento dos dados.
+1. **Python**:A linguagem de programação Python foi empregada para a limpeza, manipulação e preparação dos dados brutos das eleições. A biblioteca Pandas desempenharam um papel essencial na análise exploratória e no processamento dos dados.
 
-### SQL (SQLite):
-Criei um banco de dados SQLite para armazenar os dados eleitorais de forma estruturada. Utilizei consultas SQL para extrair informações específicas , facilitando a análise dos dados em diferentes perspectivas.
+2. **SQL (SQLite)**:Criei um banco de dados SQLite para armazenar os dados eleitorais de forma estruturada. Utilizei consultas SQL para extrair informações específicas , facilitando a análise dos dados em diferentes perspectivas.
 
-### Power BI: 
-Para criar visualizações interativas e informativas dos insights extraídos dos dados, o Power BI foi a ferramenta escolhida. Elaborei um dashboard dinâmico que permite a exploração profunda dos resultados eleitorais em diferentes níveis de detalhes.
+3. **Power BI**: Para criar visualizações interativas e informativas dos insights extraídos dos dados, o Power BI foi a ferramenta escolhida. Elaborei um dashboard dinâmico que permite a exploração profunda dos resultados eleitorais em diferentes níveis de detalhes.
+
+![Dashboard_eleicao2020](https://github.com/gustavoleandro8/eleicao2020/assets/138906268/806cb0d3-9e99-4a2a-b1ad-d53f14859cf3)
